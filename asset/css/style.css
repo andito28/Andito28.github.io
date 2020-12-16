@@ -1,0 +1,209 @@
+.nav-bg{
+    padding-left:20pxpx;
+    padding-right:20px;
+    background-color: #F0F8FF;
+}
+
+ul li a{
+  font-weight: 500;
+  margin-right:30px;
+}
+section#jumbotron{
+  background-color: #F0F8FF;
+   padding: 50px 0px;
+  }
+
+section#about {
+ margin-top: 30px;
+ margin-bottom: 30px;
+ padding: 50px 0px;
+}
+
+section#myservice{
+  background-color: #F0F8FF;
+  padding: 50px 0px;
+}
+
+section#myservice h1{
+  margin-bottom:50px;
+}
+
+
+.col-md-6.profile {
+  padding: 50px;
+  margin-bottom:10px;
+}
+
+.col-md-6.profile .preview{
+  background: white;
+  color :#4169E1;
+  border: 1.5px solid #4169E1;
+  font-weight: 500;
+}
+
+.col-md-6.profile .resume{
+  background:#4169E1;
+  color:white;
+  font-weight: 500;
+}
+
+.col-md-6.profile p{
+  letter-spacing: 3px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #708090;
+}
+
+.col-md-6.profile h1{
+ font-weight: bold;
+ letter-spacing: 5px;
+ font-size: 60px;
+}
+
+.about h1{
+ font-weight: 100;
+
+}
+
+p{
+ color:#708090;
+ line-height: 35px;
+}
+
+section#footer{
+ background-color: 	#202020;
+ color:white;
+ padding:30px 0px;
+ text-align: center;
+}
+
+section#contact{
+padding:50px 0px;
+}
+
+section#contact  span{
+  font-weight: bold;
+  color:#4169E1;
+}
+section#contact h1{
+  margin-bottom:50px;
+}
+
+h6{
+font-size: 20px;
+font-weight: bold;
+margin-bottom: 40px;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+body{
+  margin:0px;
+  padding:0px;
+}
+
+p{
+  line-height: 25px;
+}
+section#jumbotron {
+   padding:10px 0px;
+   background-color: #F0F8FF;
+  }
+
+  .col-md-6.profile {
+  padding:0px;
+  margin:10px;
+  margin-bottom: 35px;
+}
+
+.col-md-6.profile p{
+  font-size:10px;
+}
+
+.col-md-6.profile h1{
+ font-size: 40px;
+}
+
+.col-md-6.text-center {
+  margin-top:0px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  padding-top:0px;
+}
+
+section#about {
+  margin: 0px;
+  padding: 0px;
+}
+
+section#about h1{
+  text-align:center;
+  font-size: 25px;
+
+}
+
+.col-md-6.profile .preview{
+  font-size: 12px;
+}
+
+.col-md-6.profile .resume{
+  font-size: 12px;
+}
+
+.row.jumb {
+ padding-bottom: 30px;
+}
+
+section#myservice{
+  margin:0px;
+  padding:0px;
+  padding-bottom:30px;
+}
+section#myservice h1{
+ font-size: 25px;
+ padding:20px 0px;
+ margin-bottom:0px;
+}
+
+h5.card-title {
+ font-size: 18px;
+}
+
+section#contact{
+  margin:0px;
+  padding:0px;
+}
+section#contact h1{
+  font-size: 25px;
+ padding:20px 0px;
+ margin-bottom:0px;
+}
+
+section#contact h6{
+  margin-bottom:20px;
+  font-size: 18px;
+  color:#708090;
+}
+section#footer{
+  font-size:12px;
+  padding:20px 0px;
+}
+
+nav img{
+  width:80px;
+}
+      
+}
+
+@media only screen and (min-width: 767px) and (max-width: 1000px){
+
+.col-md-6.profile .preview{
+  font-size:10px;
+}
+
+.col-md-6.profile .resume{
+  font-size: 10px;
+}
+
+}
