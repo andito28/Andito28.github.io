@@ -206,4 +206,9 @@ nav img{
   font-size: 10px;
 }
 
+section#about {
+  margin: 0px;
+  padding: 30px;
+}
+
 }
