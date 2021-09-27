@@ -16,7 +16,7 @@ section#jumbotron{
 section#about {
  margin-top: 30px;
  margin-bottom: 30px;
- padding: 50px 0px;
+ padding: 10px 0px;
 }
 
 section#portfolio{
@@ -134,7 +134,7 @@ section#jumbotron {
 
 section#about {
   margin: 0px;
-  padding: 0px;
+  padding: 30px;
 }
 
 section#about h1{
