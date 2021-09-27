@@ -212,4 +212,11 @@ section#about {
   padding: 30px;
 }
 
+section#portfolio h1{
+  font-size: 25px;
+  padding:20px 0px;
+  margin-bottom:0px;
+  padding-top: 40px;;
+ }
+
 }
